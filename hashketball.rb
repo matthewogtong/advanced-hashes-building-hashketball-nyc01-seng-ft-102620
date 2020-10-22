@@ -1,7 +1,7 @@
 require 'pry'
 
 def game_hash()
-  final_hash = 
+  final_hash =
 
   {}
 
@@ -12,5 +12,5 @@ def game_hash()
 
 
 
-  
+
 end
