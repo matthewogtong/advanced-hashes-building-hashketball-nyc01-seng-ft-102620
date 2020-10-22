@@ -12,14 +12,14 @@ def game_hash()
       [
         {
           :player_name => 'Alan Anderson',
-          :number =>,
-          :shoe =>,
-          :points =>,
-          :rebounds =>,
-          :assists =>,
-          :steals =>,
-          :blocks =>,
-          :slam_dunks =>
+          :number =>'',
+          :shoe =>'',
+          :points =>'',
+          :rebounds =>'',
+          :assists =>'',
+          :steals =>'',
+          :blocks =>'',
+          :slam_dunks =>''
         },
       ]
     :away =>
@@ -30,14 +30,14 @@ def game_hash()
       [
         {
           :player_name => '',
-          :number =>,
-          :shoe =>,
-          :points =>,
-          :rebounds =>,
-          :assists =>,
-          :steals =>,
-          :blocks =>,
-          :slam_dunks =>
+          :number =>'',
+          :shoe =>'',
+          :points =>'',
+          :rebounds =>'',
+          :assists =>'',
+          :steals =>'',
+          :blocks =>'',
+          :slam_dunks =>''
         },
       ]
     }
