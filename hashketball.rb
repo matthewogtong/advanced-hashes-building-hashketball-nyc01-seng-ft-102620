@@ -22,7 +22,6 @@ def game_hash()
           :slam_dunks => 1
         }
       ]
-      binding.pry
     }
     :away =>
     {
@@ -31,4 +30,5 @@ def game_hash()
       :players => []
     }
   }
+  binding.pry
 end
