@@ -21,11 +21,12 @@ def game_hash()
           :blocks =>'',
           :slam_dunks =>''
         },
+        {}
       ]
     :away =>
     {
       :team_name => "Charlotte Hornets",
-      :colors => ["",""],
+      :colors => ['',''],
       :players =>
       [
         {
@@ -39,6 +40,7 @@ def game_hash()
           :blocks =>'',
           :slam_dunks =>''
         },
+        {}
       ]
     }
   }
