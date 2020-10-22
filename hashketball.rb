@@ -20,116 +20,15 @@ def game_hash()
           :steals => 3,
           :blocks => 1,
           :slam_dunks => 1
-        },
+        }
         binding.pry
-        {
-          :player_name => '',
-          :number =>'',
-          :shoe =>'',
-          :points =>'',
-          :rebounds =>'',
-          :assists =>'',
-          :steals =>'',
-          :blocks =>'',
-          :slam_dunks =>''
-        },
-        {
-          :player_name => '',
-          :number =>'',
-          :shoe =>'',
-          :points =>'',
-          :rebounds =>'',
-          :assists =>'',
-          :steals =>'',
-          :blocks =>'',
-          :slam_dunks =>''
-        },
-        {
-          :player_name => '',
-          :number =>'',
-          :shoe =>'',
-          :points =>'',
-          :rebounds =>'',
-          :assists =>'',
-          :steals =>'',
-          :blocks =>'',
-          :slam_dunks =>''
-        },
-        {
-          :player_name => '',
-          :number =>'',
-          :shoe =>'',
-          :points =>'',
-          :rebounds =>'',
-          :assists =>'',
-          :steals =>'',
-          :blocks =>'',
-          :slam_dunks =>''
-        },
-
       ]
+    }
     :away =>
     {
       :team_name => "Charlotte Hornets",
       :colors => ['',''],
-      :players =>
-      [
-        {
-          :player_name => '',
-          :number =>'',
-          :shoe =>'',
-          :points =>'',
-          :rebounds =>'',
-          :assists =>'',
-          :steals =>'',
-          :blocks =>'',
-          :slam_dunks =>''
-        },
-        {
-          :player_name => '',
-          :number =>'',
-          :shoe =>'',
-          :points =>'',
-          :rebounds =>'',
-          :assists =>'',
-          :steals =>'',
-          :blocks =>'',
-          :slam_dunks =>''
-        },
-        {
-          :player_name => '',
-          :number =>'',
-          :shoe =>'',
-          :points =>'',
-          :rebounds =>'',
-          :assists =>'',
-          :steals =>'',
-          :blocks =>'',
-          :slam_dunks =>''
-        },
-        {
-          :player_name => '',
-          :number =>'',
-          :shoe =>'',
-          :points =>'',
-          :rebounds =>'',
-          :assists =>'',
-          :steals =>'',
-          :blocks =>'',
-          :slam_dunks =>''
-        },
-        {
-          :player_name => '',
-          :number =>'',
-          :shoe =>'',
-          :points =>'',
-          :rebounds =>'',
-          :assists =>'',
-          :steals =>'',
-          :blocks =>'',
-          :slam_dunks =>''
-        }
-      ]
+      :players => []
     }
   }
 end
